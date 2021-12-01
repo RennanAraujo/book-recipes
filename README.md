@@ -1,5 +1,5 @@
-###Livro receitas
+### Livro receitas
 
---Recipe 1
---Recipe 2
---Recipe 3
+_Recipe 1_
+_Recipe 2_
+_Recipe 3_
