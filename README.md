@@ -1,5 +1,7 @@
-### Livro receitas
+# Livro de receitas :man_cook:
 
-_Recipe 1_
-_Recipe 2_
-_Recipe 3_
+Olá, bem-vindo ao livro de receitas :rocket: 
+
+- Strogonoff
+- Pavê
+- Omelete
